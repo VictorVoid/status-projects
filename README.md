@@ -36,6 +36,3 @@ I am also trying to write a idea for a plataform game, but I want game design fo
 
 <div align="center"><img src='https://chart.googleapis.com/chart?cht=p&chs=250x100&chd=t:30,70&chco=CDDC39,C8E6C9&chl=In%20Progress|To%20Do' alt='Chart spikego)' height='100' width='250' /></div>
 
-## Class Note 
-
-
